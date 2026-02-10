@@ -1,0 +1,78 @@
+Book Title,Book Version,Dataset,Dataset Label,Dataset Keys,Dataset Description,Variable,Variable Label,Type,Controlled Terms,Source,Notes,Description,Example
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",STUDYID,Study Identifier,Character,,Protocol,,,KEYNOTE-001-001
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",USUBJID,Unique Subject Identifier,Character,,Derived,,Globally unique identifier for each subject,
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",SITEID,Study Site Identifier,Character,,EDC,,,
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",RFSTDTC,Date of First Study Treatment,ISO 8601 Date,,Derived,,,
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",ARM,Treatment Arm,Character,"PBO,TRT",Randomization,,,
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",SEX,Biological Sex,Character,"M,F",,,,
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",AGE,Age at Baseline (Years),Integer,,,,,
+Clinical Trial Raw Data Dictionary,1.0,subject,Subject-Level Roster,USUBJID,"One record per subject. This dataset represents the core subject
+            roster combining demographics, treatment assignment, and baseline
+            disease status. It serves as the anchor dataset for all other domains.",ECOG0,Baseline ECOG Performance Status,Integer,"0,1,2,3,4",,Baseline functional status in oncology trials,,
+Clinical Trial Raw Data Dictionary,1.0,sv,Subject Visit Schedule,"USUBJID,VISIT","Planned and actual visit-level information for each subject.
+            Used as the temporal backbone for assessments such as labs,
+            tumor response, and vital signs.",USUBJID,Unique Subject Identifier,Character,,,,,
+Clinical Trial Raw Data Dictionary,1.0,sv,Subject Visit Schedule,"USUBJID,VISIT","Planned and actual visit-level information for each subject.
+            Used as the temporal backbone for assessments such as labs,
+            tumor response, and vital signs.",VISIT,Visit Name,Character,,,,,W12
+Clinical Trial Raw Data Dictionary,1.0,sv,Subject Visit Schedule,"USUBJID,VISIT","Planned and actual visit-level information for each subject.
+            Used as the temporal backbone for assessments such as labs,
+            tumor response, and vital signs.",VISITDY,Planned Study Day Relative to First Dose,Integer,,,,,
+Clinical Trial Raw Data Dictionary,1.0,sv,Subject Visit Schedule,"USUBJID,VISIT","Planned and actual visit-level information for each subject.
+            Used as the temporal backbone for assessments such as labs,
+            tumor response, and vital signs.",VISITDTC,Visit Date,ISO 8601 Date,,,,,
+Clinical Trial Raw Data Dictionary,1.0,tu,Tumor Identification,"USUBJID,TUSEQ","Identifies individual tumor lesions for each subject.
+            Lesions defined here are referenced by response assessments (RS).",USUBJID,Unique Subject Identifier,Character,,,,,
+Clinical Trial Raw Data Dictionary,1.0,tu,Tumor Identification,"USUBJID,TUSEQ","Identifies individual tumor lesions for each subject.
+            Lesions defined here are referenced by response assessments (RS).",TUSEQ,Tumor Sequence Number,Integer,,,,,
+Clinical Trial Raw Data Dictionary,1.0,tu,Tumor Identification,"USUBJID,TUSEQ","Identifies individual tumor lesions for each subject.
+            Lesions defined here are referenced by response assessments (RS).",TULOC,Tumor Location,Character,,,,,LUNG
+Clinical Trial Raw Data Dictionary,1.0,tu,Tumor Identification,"USUBJID,TUSEQ","Identifies individual tumor lesions for each subject.
+            Lesions defined here are referenced by response assessments (RS).",TUTYPE,Tumor Type,Character,"TARGET,NON-TARGET",,,,
+Clinical Trial Raw Data Dictionary,1.0,tu,Tumor Identification,"USUBJID,TUSEQ","Identifies individual tumor lesions for each subject.
+            Lesions defined here are referenced by response assessments (RS).",TULNKID,Tumor Link Identifier,Character,,,Used to link tumor lesions with response assessments,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",USUBJID,Unique Subject Identifier,Character,,,,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",RSSEQ,Response Assessment Sequence Number,Integer,,,,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",RSVISIT,Assessment Visit,Character,,,,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",RSVISITDY,Study Day of Response Assessment,Integer,,,,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",RSDTC,Response Assessment Date,ISO 8601 Date,,,,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",OVRLRESP,Overall Tumor Response,Character,"CR,PR,SD,PD,NE",,Overall response per RECIST v1.1 concepts,,
+Clinical Trial Raw Data Dictionary,1.0,rs,Tumor Response Assessment,"USUBJID,RSSEQ","Overall tumor response assessments performed at scheduled visits.
+            Responses are based on RECIST-like logic and reflect disease progression
+            or treatment benefit over time.",NEWLIND,New Lesion Indicator,Character,"Y,N",,,,
+Clinical Trial Raw Data Dictionary,1.0,ae,Adverse Events,"USUBJID,AESEQ","Records treatment-emergent adverse events occurring after
+            first study treatment.",AETERM,Adverse Event Term,Character,,,,,
+Clinical Trial Raw Data Dictionary,1.0,ae,Adverse Events,"USUBJID,AESEQ","Records treatment-emergent adverse events occurring after
+            first study treatment.",AESTDTC,Adverse Event Start Date,ISO 8601 Date,,,,,
+Clinical Trial Raw Data Dictionary,1.0,ae,Adverse Events,"USUBJID,AESEQ","Records treatment-emergent adverse events occurring after
+            first study treatment.",AEENDTC,Adverse Event End Date,ISO 8601 Date,,,,,
+Clinical Trial Raw Data Dictionary,1.0,ae,Adverse Events,"USUBJID,AESEQ","Records treatment-emergent adverse events occurring after
+            first study treatment.",AESEV,Adverse Event Severity,Character,"MILD,MODERATE,SEVERE",,,,
+Clinical Trial Raw Data Dictionary,1.0,ae,Adverse Events,"USUBJID,AESEQ","Records treatment-emergent adverse events occurring after
+            first study treatment.",AEREL,Causality to Study Drug,Character,"RELATED,NOT RELATED",,,,

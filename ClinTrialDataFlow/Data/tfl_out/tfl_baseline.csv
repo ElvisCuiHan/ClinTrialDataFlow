@@ -1,0 +1,13 @@
+ARM,PARAM,VALUE
+PBO,N,101
+PBO,"Age, mean (SD)",57.4 (9.0)
+PBO,"Age, median [Q1,Q3]","57.0 [51.0, 64.0]"
+PBO,Sex=M,51 (50.5%)
+PBO,Sex=F,50 (49.5%)
+PBO,Race=UNK,101 (100.0%)
+TRT,N,99
+TRT,"Age, mean (SD)",60.3 (8.6)
+TRT,"Age, median [Q1,Q3]","60.0 [54.0, 67.0]"
+TRT,Sex=M,53 (53.5%)
+TRT,Sex=F,46 (46.5%)
+TRT,Race=UNK,99 (100.0%)

@@ -1,0 +1,5 @@
+PARAMCD,ARM,N,Events,Median (days),KM at 6 mo (%),KM at 12 mo (%)
+PFS,PBO,101,55,166.0,38.5,38.5
+PFS,TRT,99,22,,63.6,63.6
+OS,PBO,101,0,,100.0,100.0
+OS,TRT,99,0,,100.0,100.0

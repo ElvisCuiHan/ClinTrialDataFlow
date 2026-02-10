@@ -1,0 +1,401 @@
+STUDYID,USUBJID,TRT01A,TRT01AN,PARAMCD,PARAM,STARTDT,ADT,AVAL,CNSR,EVNTDESC,CNSRREAS,LSTALVDT
+TEST-001-001,TEST-001-001-CN001001,PBO,0,OS,Overall Survival,2025-01-23,2025-08-16,206.0,1,,No death recorded; censored at last contact,2025-08-16
+TEST-001-001,TEST-001-001-CN001001,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-23,2025-07-08,167.0,1,,No PD observed; censored at last RS assessment,2025-08-16
+TEST-001-001,TEST-001-001-CN001012,PBO,0,OS,Overall Survival,2025-02-16,2025-08-03,169.0,1,,No death recorded; censored at last contact,2025-08-03
+TEST-001-001,TEST-001-001-CN001012,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-16,2025-07-31,166.0,0,Disease progression (PD),,2025-08-03
+TEST-001-001,TEST-001-001-CN001049,PBO,0,OS,Overall Survival,2025-02-19,2025-08-07,170.0,1,,No death recorded; censored at last contact,2025-08-07
+TEST-001-001,TEST-001-001-CN001049,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-19,2025-03-30,40.0,0,Disease progression (PD),,2025-08-07
+TEST-001-001,TEST-001-001-CN001074,PBO,0,OS,Overall Survival,2025-01-27,2025-07-14,169.0,1,,No death recorded; censored at last contact,2025-07-14
+TEST-001-001,TEST-001-001-CN001074,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-27,2025-06-01,126.0,0,Disease progression (PD),,2025-07-14
+TEST-001-001,TEST-001-001-CN001081,PBO,0,OS,Overall Survival,2025-04-17,2025-10-02,169.0,1,,No death recorded; censored at last contact,2025-10-02
+TEST-001-001,TEST-001-001-CN001081,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-17,2025-10-02,169.0,1,,No PD observed; censored at last RS assessment,2025-10-02
+TEST-001-001,TEST-001-001-CN001087,TRT,1,OS,Overall Survival,2025-05-07,2025-10-22,169.0,1,,No death recorded; censored at last contact,2025-10-22
+TEST-001-001,TEST-001-001-CN001087,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-07,2025-10-19,166.0,0,Disease progression (PD),,2025-10-22
+TEST-001-001,TEST-001-001-CN001092,PBO,0,OS,Overall Survival,2025-03-19,2025-09-04,170.0,1,,No death recorded; censored at last contact,2025-09-04
+TEST-001-001,TEST-001-001-CN001092,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-19,2025-09-04,170.0,1,,No PD observed; censored at last RS assessment,2025-09-04
+TEST-001-001,TEST-001-001-CN001127,PBO,0,OS,Overall Survival,2025-04-07,2025-09-22,169.0,1,,No death recorded; censored at last contact,2025-09-22
+TEST-001-001,TEST-001-001-CN001127,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-07,2025-06-30,85.0,0,Disease progression (PD),,2025-09-22
+TEST-001-001,TEST-001-001-CN001133,PBO,0,OS,Overall Survival,2025-04-18,2025-10-06,172.0,1,,No death recorded; censored at last contact,2025-10-06
+TEST-001-001,TEST-001-001-CN001133,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-18,2025-10-06,172.0,1,,No PD observed; censored at last RS assessment,2025-10-06
+TEST-001-001,TEST-001-001-CN001161,PBO,0,OS,Overall Survival,2025-02-23,2025-08-11,170.0,1,,No death recorded; censored at last contact,2025-08-11
+TEST-001-001,TEST-001-001-CN001161,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-23,2025-02-24,2.0,0,Disease progression (PD),,2025-08-11
+TEST-001-001,TEST-001-001-CN001178,PBO,0,OS,Overall Survival,2025-04-12,2025-09-27,169.0,1,,No death recorded; censored at last contact,2025-09-27
+TEST-001-001,TEST-001-001-CN001178,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-12,2025-04-09,-2.0,0,Disease progression (PD),,2025-09-27
+TEST-001-001,TEST-001-001-CN001187,PBO,0,OS,Overall Survival,2025-04-22,2025-10-07,169.0,1,,No death recorded; censored at last contact,2025-10-07
+TEST-001-001,TEST-001-001-CN001187,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-22,2025-04-25,4.0,0,Disease progression (PD),,2025-10-07
+TEST-001-001,TEST-001-001-CN002007,PBO,0,OS,Overall Survival,2025-05-29,2025-11-13,169.0,1,,No death recorded; censored at last contact,2025-11-13
+TEST-001-001,TEST-001-001-CN002007,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-29,2025-11-10,166.0,1,,No PD observed; censored at last RS assessment,2025-11-13
+TEST-001-001,TEST-001-001-CN002008,PBO,0,OS,Overall Survival,2025-01-29,2025-07-16,169.0,1,,No death recorded; censored at last contact,2025-07-16
+TEST-001-001,TEST-001-001-CN002008,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-29,2025-07-14,167.0,1,,No PD observed; censored at last RS assessment,2025-07-16
+TEST-001-001,TEST-001-001-CN002011,PBO,0,OS,Overall Survival,2025-04-30,2025-10-18,172.0,1,,No death recorded; censored at last contact,2025-10-18
+TEST-001-001,TEST-001-001-CN002011,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-30,2025-10-18,172.0,1,,No PD observed; censored at last RS assessment,2025-10-18
+TEST-001-001,TEST-001-001-CN002031,TRT,1,OS,Overall Survival,2025-01-19,2025-07-09,172.0,1,,No death recorded; censored at last contact,2025-07-09
+TEST-001-001,TEST-001-001-CN002031,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-19,2025-07-09,172.0,1,,No PD observed; censored at last RS assessment,2025-07-09
+TEST-001-001,TEST-001-001-CN002032,TRT,1,OS,Overall Survival,2025-04-05,2025-09-20,169.0,1,,No death recorded; censored at last contact,2025-09-20
+TEST-001-001,TEST-001-001-CN002032,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-05,2025-09-17,166.0,0,Disease progression (PD),,2025-09-20
+TEST-001-001,TEST-001-001-CN002039,TRT,1,OS,Overall Survival,2025-02-08,2025-07-26,169.0,1,,No death recorded; censored at last contact,2025-07-26
+TEST-001-001,TEST-001-001-CN002039,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-08,2025-07-26,169.0,1,,No PD observed; censored at last RS assessment,2025-07-26
+TEST-001-001,TEST-001-001-CN002054,PBO,0,OS,Overall Survival,2025-01-07,2025-06-25,170.0,1,,No death recorded; censored at last contact,2025-06-25
+TEST-001-001,TEST-001-001-CN002054,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-07,2025-02-17,42.0,0,Disease progression (PD),,2025-06-25
+TEST-001-001,TEST-001-001-CN002062,TRT,1,OS,Overall Survival,2025-01-28,2025-07-17,171.0,1,,No death recorded; censored at last contact,2025-07-17
+TEST-001-001,TEST-001-001-CN002062,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-28,2025-07-17,171.0,1,,No PD observed; censored at last RS assessment,2025-07-17
+TEST-001-001,TEST-001-001-CN002068,PBO,0,OS,Overall Survival,2025-04-07,2025-09-24,171.0,1,,No death recorded; censored at last contact,2025-09-24
+TEST-001-001,TEST-001-001-CN002068,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-07,2025-08-10,126.0,0,Disease progression (PD),,2025-09-24
+TEST-001-001,TEST-001-001-CN002097,TRT,1,OS,Overall Survival,2025-01-21,2025-07-08,169.0,1,,No death recorded; censored at last contact,2025-07-08
+TEST-001-001,TEST-001-001-CN002097,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-21,2025-07-06,167.0,1,,No PD observed; censored at last RS assessment,2025-07-08
+TEST-001-001,TEST-001-001-CN002118,TRT,1,OS,Overall Survival,2025-04-18,2025-10-03,169.0,1,,No death recorded; censored at last contact,2025-10-03
+TEST-001-001,TEST-001-001-CN002118,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-18,2025-10-02,168.0,0,Disease progression (PD),,2025-10-03
+TEST-001-001,TEST-001-001-CN002137,PBO,0,OS,Overall Survival,2025-01-06,2025-06-23,169.0,1,,No death recorded; censored at last contact,2025-06-23
+TEST-001-001,TEST-001-001-CN002137,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-06,2025-06-20,166.0,1,,No PD observed; censored at last RS assessment,2025-06-23
+TEST-001-001,TEST-001-001-CN002154,TRT,1,OS,Overall Survival,2025-03-09,2025-08-26,171.0,1,,No death recorded; censored at last contact,2025-08-26
+TEST-001-001,TEST-001-001-CN002154,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-09,2025-08-26,171.0,1,,No PD observed; censored at last RS assessment,2025-08-26
+TEST-001-001,TEST-001-001-CN002157,TRT,1,OS,Overall Survival,2025-02-24,2025-08-14,172.0,1,,No death recorded; censored at last contact,2025-08-14
+TEST-001-001,TEST-001-001-CN002157,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-24,2025-08-14,172.0,1,,No PD observed; censored at last RS assessment,2025-08-14
+TEST-001-001,TEST-001-001-CN002164,PBO,0,OS,Overall Survival,2025-05-17,2025-11-01,169.0,1,,No death recorded; censored at last contact,2025-11-01
+TEST-001-001,TEST-001-001-CN002164,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-17,2025-08-11,87.0,0,Disease progression (PD),,2025-11-01
+TEST-001-001,TEST-001-001-CN002168,PBO,0,OS,Overall Survival,2025-01-19,2025-07-06,169.0,1,,No death recorded; censored at last contact,2025-07-06
+TEST-001-001,TEST-001-001-CN002168,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-19,2025-07-05,168.0,1,,No PD observed; censored at last RS assessment,2025-07-06
+TEST-001-001,TEST-001-001-CN002172,TRT,1,OS,Overall Survival,2025-01-02,2025-06-19,169.0,1,,No death recorded; censored at last contact,2025-06-19
+TEST-001-001,TEST-001-001-CN002172,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-02,2025-05-11,130.0,0,Disease progression (PD),,2025-06-19
+TEST-001-001,TEST-001-001-CN002177,TRT,1,OS,Overall Survival,2025-05-24,2025-11-11,172.0,1,,No death recorded; censored at last contact,2025-11-11
+TEST-001-001,TEST-001-001-CN002177,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-24,2025-11-11,172.0,1,,No PD observed; censored at last RS assessment,2025-11-11
+TEST-001-001,TEST-001-001-CN002185,PBO,0,OS,Overall Survival,2025-03-26,2025-09-13,172.0,1,,No death recorded; censored at last contact,2025-09-13
+TEST-001-001,TEST-001-001-CN002185,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-26,2025-06-18,85.0,0,Disease progression (PD),,2025-09-13
+TEST-001-001,TEST-001-001-CN002196,PBO,0,OS,Overall Survival,2025-03-27,2025-09-14,172.0,1,,No death recorded; censored at last contact,2025-09-14
+TEST-001-001,TEST-001-001-CN002196,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-27,2025-09-14,172.0,1,,No PD observed; censored at last RS assessment,2025-09-14
+TEST-001-001,TEST-001-001-CN002199,TRT,1,OS,Overall Survival,2025-02-02,2025-07-21,170.0,1,,No death recorded; censored at last contact,2025-07-21
+TEST-001-001,TEST-001-001-CN002199,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-02,2025-07-21,170.0,1,,No PD observed; censored at last RS assessment,2025-07-21
+TEST-001-001,TEST-001-001-CN003003,TRT,1,OS,Overall Survival,2025-04-02,2025-09-20,172.0,1,,No death recorded; censored at last contact,2025-09-20
+TEST-001-001,TEST-001-001-CN003003,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-02,2025-09-20,172.0,1,,No PD observed; censored at last RS assessment,2025-09-20
+TEST-001-001,TEST-001-001-CN003018,PBO,0,OS,Overall Survival,2025-03-03,2025-09-17,199.0,1,,No death recorded; censored at last contact,2025-09-17
+TEST-001-001,TEST-001-001-CN003018,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-03,2025-05-27,86.0,0,Disease progression (PD),,2025-09-17
+TEST-001-001,TEST-001-001-CN003040,TRT,1,OS,Overall Survival,2025-01-25,2025-07-12,169.0,1,,No death recorded; censored at last contact,2025-07-12
+TEST-001-001,TEST-001-001-CN003040,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-25,2025-07-09,166.0,1,,No PD observed; censored at last RS assessment,2025-07-12
+TEST-001-001,TEST-001-001-CN003044,TRT,1,OS,Overall Survival,2025-03-22,2025-09-09,172.0,1,,No death recorded; censored at last contact,2025-09-09
+TEST-001-001,TEST-001-001-CN003044,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-22,2025-09-09,172.0,1,,No PD observed; censored at last RS assessment,2025-09-09
+TEST-001-001,TEST-001-001-CN003069,TRT,1,OS,Overall Survival,2025-01-03,2025-06-20,169.0,1,,No death recorded; censored at last contact,2025-06-20
+TEST-001-001,TEST-001-001-CN003069,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-03,2025-06-17,166.0,0,Disease progression (PD),,2025-06-20
+TEST-001-001,TEST-001-001-CN003070,TRT,1,OS,Overall Survival,2025-02-19,2025-08-09,172.0,1,,No death recorded; censored at last contact,2025-08-09
+TEST-001-001,TEST-001-001-CN003070,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-19,2025-06-25,127.0,0,Disease progression (PD),,2025-08-09
+TEST-001-001,TEST-001-001-CN003075,PBO,0,OS,Overall Survival,2025-03-22,2025-09-06,169.0,1,,No death recorded; censored at last contact,2025-09-06
+TEST-001-001,TEST-001-001-CN003075,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-22,2025-07-28,129.0,0,Disease progression (PD),,2025-09-06
+TEST-001-001,TEST-001-001-CN003076,TRT,1,OS,Overall Survival,2025-02-21,2025-08-08,169.0,1,,No death recorded; censored at last contact,2025-08-08
+TEST-001-001,TEST-001-001-CN003076,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-21,2025-08-05,166.0,1,,No PD observed; censored at last RS assessment,2025-08-08
+TEST-001-001,TEST-001-001-CN003080,TRT,1,OS,Overall Survival,2025-04-02,2025-09-18,170.0,1,,No death recorded; censored at last contact,2025-09-18
+TEST-001-001,TEST-001-001-CN003080,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-02,2025-09-18,170.0,1,,No PD observed; censored at last RS assessment,2025-09-18
+TEST-001-001,TEST-001-001-CN003082,TRT,1,OS,Overall Survival,2025-02-28,2025-08-15,169.0,1,,No death recorded; censored at last contact,2025-08-15
+TEST-001-001,TEST-001-001-CN003082,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-28,2025-05-21,83.0,0,Disease progression (PD),,2025-08-15
+TEST-001-001,TEST-001-001-CN003103,TRT,1,OS,Overall Survival,2025-01-17,2025-02-18,33.0,1,,No death recorded; censored at last contact,2025-02-18
+TEST-001-001,TEST-001-001-CN003103,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-17,2025-01-16,0.0,1,,No PD observed; censored at last RS assessment,2025-02-18
+TEST-001-001,TEST-001-001-CN003109,PBO,0,OS,Overall Survival,2025-03-31,2025-05-17,48.0,1,,No death recorded; censored at last contact,2025-05-17
+TEST-001-001,TEST-001-001-CN003109,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-31,2025-05-09,40.0,0,Disease progression (PD),,2025-05-17
+TEST-001-001,TEST-001-001-CN003114,PBO,0,OS,Overall Survival,2025-04-04,2025-07-06,94.0,1,,No death recorded; censored at last contact,2025-07-06
+TEST-001-001,TEST-001-001-CN003114,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-04,2025-06-25,83.0,1,,No PD observed; censored at last RS assessment,2025-07-06
+TEST-001-001,TEST-001-001-CN003115,PBO,0,OS,Overall Survival,2025-05-20,2025-11-04,169.0,1,,No death recorded; censored at last contact,2025-11-04
+TEST-001-001,TEST-001-001-CN003115,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-20,2025-05-19,0.0,0,Disease progression (PD),,2025-11-04
+TEST-001-001,TEST-001-001-CN003131,TRT,1,OS,Overall Survival,2025-01-14,2025-07-01,169.0,1,,No death recorded; censored at last contact,2025-07-01
+TEST-001-001,TEST-001-001-CN003131,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-14,2025-07-01,169.0,0,Disease progression (PD),,2025-07-01
+TEST-001-001,TEST-001-001-CN003135,TRT,1,OS,Overall Survival,2025-01-07,2025-02-11,36.0,1,,No death recorded; censored at last contact,2025-02-11
+TEST-001-001,TEST-001-001-CN003135,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-07,2025-01-08,2.0,1,,No PD observed; censored at last RS assessment,2025-02-11
+TEST-001-001,TEST-001-001-CN003138,PBO,0,OS,Overall Survival,2025-03-12,2025-08-27,169.0,1,,No death recorded; censored at last contact,2025-08-27
+TEST-001-001,TEST-001-001-CN003138,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-12,2025-04-21,41.0,0,Disease progression (PD),,2025-08-27
+TEST-001-001,TEST-001-001-CN003141,PBO,0,OS,Overall Survival,2025-05-20,2025-11-07,172.0,1,,No death recorded; censored at last contact,2025-11-07
+TEST-001-001,TEST-001-001-CN003141,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-20,2025-11-07,172.0,1,,No PD observed; censored at last RS assessment,2025-11-07
+TEST-001-001,TEST-001-001-CN003147,PBO,0,OS,Overall Survival,2025-04-10,2025-09-25,169.0,1,,No death recorded; censored at last contact,2025-09-25
+TEST-001-001,TEST-001-001-CN003147,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-10,2025-08-12,125.0,0,Disease progression (PD),,2025-09-25
+TEST-001-001,TEST-001-001-CN003156,PBO,0,OS,Overall Survival,2025-02-12,2025-07-30,169.0,1,,No death recorded; censored at last contact,2025-07-30
+TEST-001-001,TEST-001-001-CN003156,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-12,2025-07-30,169.0,1,,No PD observed; censored at last RS assessment,2025-07-30
+TEST-001-001,TEST-001-001-CN003170,PBO,0,OS,Overall Survival,2025-04-07,2025-09-22,169.0,1,,No death recorded; censored at last contact,2025-09-22
+TEST-001-001,TEST-001-001-CN003170,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-07,2025-05-18,42.0,0,Disease progression (PD),,2025-09-22
+TEST-001-001,TEST-001-001-CN003173,TRT,1,OS,Overall Survival,2025-05-15,2025-10-30,169.0,1,,No death recorded; censored at last contact,2025-10-30
+TEST-001-001,TEST-001-001-CN003173,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-15,2025-10-30,169.0,1,,No PD observed; censored at last RS assessment,2025-10-30
+TEST-001-001,TEST-001-001-CN004002,PBO,0,OS,Overall Survival,2025-02-05,2025-07-24,170.0,1,,No death recorded; censored at last contact,2025-07-24
+TEST-001-001,TEST-001-001-CN004002,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-05,2025-07-24,170.0,1,,No PD observed; censored at last RS assessment,2025-07-24
+TEST-001-001,TEST-001-001-CN004009,TRT,1,OS,Overall Survival,2025-05-28,2025-11-13,170.0,1,,No death recorded; censored at last contact,2025-11-13
+TEST-001-001,TEST-001-001-CN004009,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-28,2025-11-13,170.0,1,,No PD observed; censored at last RS assessment,2025-11-13
+TEST-001-001,TEST-001-001-CN004014,TRT,1,OS,Overall Survival,2025-06-07,2025-07-07,31.0,1,,No death recorded; censored at last contact,2025-07-07
+TEST-001-001,TEST-001-001-CN004014,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-06-07,2025-06-04,-2.0,1,,No PD observed; censored at last RS assessment,2025-07-07
+TEST-001-001,TEST-001-001-CN004026,PBO,0,OS,Overall Survival,2025-03-19,2025-09-03,169.0,1,,No death recorded; censored at last contact,2025-09-03
+TEST-001-001,TEST-001-001-CN004026,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-19,2025-08-31,166.0,1,,No PD observed; censored at last RS assessment,2025-09-03
+TEST-001-001,TEST-001-001-CN004033,TRT,1,OS,Overall Survival,2025-02-26,2025-08-13,169.0,1,,No death recorded; censored at last contact,2025-08-13
+TEST-001-001,TEST-001-001-CN004033,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-26,2025-08-11,167.0,1,,No PD observed; censored at last RS assessment,2025-08-13
+TEST-001-001,TEST-001-001-CN004042,PBO,0,OS,Overall Survival,2025-05-12,2025-10-27,169.0,1,,No death recorded; censored at last contact,2025-10-27
+TEST-001-001,TEST-001-001-CN004042,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-12,2025-10-26,168.0,1,,No PD observed; censored at last RS assessment,2025-10-27
+TEST-001-001,TEST-001-001-CN004050,TRT,1,OS,Overall Survival,2025-01-05,2025-06-17,164.0,1,,No death recorded; censored at last contact,2025-06-17
+TEST-001-001,TEST-001-001-CN004050,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-05,2025-03-29,84.0,1,,No PD observed; censored at last RS assessment,2025-06-17
+TEST-001-001,TEST-001-001-CN004057,PBO,0,OS,Overall Survival,2025-05-11,2025-11-01,175.0,1,,No death recorded; censored at last contact,2025-11-01
+TEST-001-001,TEST-001-001-CN004057,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-11,2025-09-16,129.0,0,Disease progression (PD),,2025-11-01
+TEST-001-001,TEST-001-001-CN004094,TRT,1,OS,Overall Survival,2025-04-03,2025-09-18,169.0,1,,No death recorded; censored at last contact,2025-09-18
+TEST-001-001,TEST-001-001-CN004094,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-03,2025-09-15,166.0,1,,No PD observed; censored at last RS assessment,2025-09-18
+TEST-001-001,TEST-001-001-CN004096,TRT,1,OS,Overall Survival,2025-03-16,2025-09-01,170.0,1,,No death recorded; censored at last contact,2025-09-01
+TEST-001-001,TEST-001-001-CN004096,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-16,2025-07-23,130.0,0,Disease progression (PD),,2025-09-01
+TEST-001-001,TEST-001-001-CN004098,TRT,1,OS,Overall Survival,2025-06-05,2025-11-22,171.0,1,,No death recorded; censored at last contact,2025-11-22
+TEST-001-001,TEST-001-001-CN004098,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-06-05,2025-11-22,171.0,1,,No PD observed; censored at last RS assessment,2025-11-22
+TEST-001-001,TEST-001-001-CN004105,TRT,1,OS,Overall Survival,2025-03-29,2025-09-16,172.0,1,,No death recorded; censored at last contact,2025-09-16
+TEST-001-001,TEST-001-001-CN004105,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-29,2025-09-16,172.0,1,,No PD observed; censored at last RS assessment,2025-09-16
+TEST-001-001,TEST-001-001-CN004123,PBO,0,OS,Overall Survival,2025-01-17,2025-07-07,172.0,1,,No death recorded; censored at last contact,2025-07-07
+TEST-001-001,TEST-001-001-CN004123,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-17,2025-07-07,172.0,1,,No PD observed; censored at last RS assessment,2025-07-07
+TEST-001-001,TEST-001-001-CN004143,TRT,1,OS,Overall Survival,2025-06-04,2025-11-19,169.0,1,,No death recorded; censored at last contact,2025-11-19
+TEST-001-001,TEST-001-001-CN004143,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-06-04,2025-10-05,124.0,1,,No PD observed; censored at last RS assessment,2025-11-19
+TEST-001-001,TEST-001-001-CN004149,TRT,1,OS,Overall Survival,2025-01-31,2025-07-18,169.0,1,,No death recorded; censored at last contact,2025-07-18
+TEST-001-001,TEST-001-001-CN004149,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-31,2025-07-18,169.0,1,,No PD observed; censored at last RS assessment,2025-07-18
+TEST-001-001,TEST-001-001-CN004152,PBO,0,OS,Overall Survival,2025-05-17,2025-11-01,169.0,1,,No death recorded; censored at last contact,2025-11-01
+TEST-001-001,TEST-001-001-CN004152,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-17,2025-08-11,87.0,0,Disease progression (PD),,2025-11-01
+TEST-001-001,TEST-001-001-CN004163,TRT,1,OS,Overall Survival,2025-01-08,2025-06-25,169.0,1,,No death recorded; censored at last contact,2025-06-25
+TEST-001-001,TEST-001-001-CN004163,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-08,2025-06-22,166.0,1,,No PD observed; censored at last RS assessment,2025-06-25
+TEST-001-001,TEST-001-001-CN004171,PBO,0,OS,Overall Survival,2025-03-07,2025-08-22,169.0,1,,No death recorded; censored at last contact,2025-08-22
+TEST-001-001,TEST-001-001-CN004171,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-07,2025-07-14,130.0,0,Disease progression (PD),,2025-08-22
+TEST-001-001,TEST-001-001-CN004188,PBO,0,OS,Overall Survival,2025-03-16,2025-09-01,170.0,1,,No death recorded; censored at last contact,2025-09-01
+TEST-001-001,TEST-001-001-CN004188,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-16,2025-04-27,43.0,0,Disease progression (PD),,2025-09-01
+TEST-001-001,TEST-001-001-CN004192,TRT,1,OS,Overall Survival,2025-02-12,2025-08-02,172.0,1,,No death recorded; censored at last contact,2025-08-02
+TEST-001-001,TEST-001-001-CN004192,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-12,2025-06-17,126.0,0,Disease progression (PD),,2025-08-02
+TEST-001-001,TEST-001-001-CN004193,PBO,0,OS,Overall Survival,2025-03-05,2025-08-20,169.0,1,,No death recorded; censored at last contact,2025-08-20
+TEST-001-001,TEST-001-001-CN004193,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-05,2025-08-17,166.0,1,,No PD observed; censored at last RS assessment,2025-08-20
+TEST-001-001,TEST-001-001-CN004195,TRT,1,OS,Overall Survival,2025-06-04,2025-11-19,169.0,1,,No death recorded; censored at last contact,2025-11-19
+TEST-001-001,TEST-001-001-CN004195,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-06-04,2025-11-17,167.0,1,,No PD observed; censored at last RS assessment,2025-11-19
+TEST-001-001,TEST-001-001-CN004197,TRT,1,OS,Overall Survival,2025-04-29,2025-06-03,36.0,1,,No death recorded; censored at last contact,2025-06-03
+TEST-001-001,TEST-001-001-CN004197,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-29,2025-05-02,4.0,1,,No PD observed; censored at last RS assessment,2025-06-03
+TEST-001-001,TEST-001-001-CN004200,TRT,1,OS,Overall Survival,2025-03-20,2025-04-30,42.0,1,,No death recorded; censored at last contact,2025-04-30
+TEST-001-001,TEST-001-001-CN004200,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-20,2025-03-20,1.0,1,,No PD observed; censored at last RS assessment,2025-04-30
+TEST-001-001,TEST-001-001-CN005013,TRT,1,OS,Overall Survival,2025-05-26,2025-11-12,171.0,1,,No death recorded; censored at last contact,2025-11-12
+TEST-001-001,TEST-001-001-CN005013,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-26,2025-09-27,125.0,0,Disease progression (PD),,2025-11-12
+TEST-001-001,TEST-001-001-CN005024,TRT,1,OS,Overall Survival,2025-02-19,2025-08-06,169.0,1,,No death recorded; censored at last contact,2025-08-06
+TEST-001-001,TEST-001-001-CN005024,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-19,2025-08-04,167.0,0,Disease progression (PD),,2025-08-06
+TEST-001-001,TEST-001-001-CN005028,PBO,0,OS,Overall Survival,2025-04-07,2025-09-22,169.0,1,,No death recorded; censored at last contact,2025-09-22
+TEST-001-001,TEST-001-001-CN005028,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-07,2025-06-28,83.0,0,Disease progression (PD),,2025-09-22
+TEST-001-001,TEST-001-001-CN005034,TRT,1,OS,Overall Survival,2025-03-06,2025-08-21,169.0,1,,No death recorded; censored at last contact,2025-08-21
+TEST-001-001,TEST-001-001-CN005034,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-06,2025-08-20,168.0,1,,No PD observed; censored at last RS assessment,2025-08-21
+TEST-001-001,TEST-001-001-CN005035,TRT,1,OS,Overall Survival,2025-03-25,2025-09-09,169.0,1,,No death recorded; censored at last contact,2025-09-09
+TEST-001-001,TEST-001-001-CN005035,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-25,2025-09-09,169.0,1,,No PD observed; censored at last RS assessment,2025-09-09
+TEST-001-001,TEST-001-001-CN005036,TRT,1,OS,Overall Survival,2025-02-09,2025-07-29,171.0,1,,No death recorded; censored at last contact,2025-07-29
+TEST-001-001,TEST-001-001-CN005036,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-09,2025-07-29,171.0,1,,No PD observed; censored at last RS assessment,2025-07-29
+TEST-001-001,TEST-001-001-CN005046,PBO,0,OS,Overall Survival,2025-01-21,2025-08-01,193.0,1,,No death recorded; censored at last contact,2025-08-01
+TEST-001-001,TEST-001-001-CN005046,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-21,2025-07-10,171.0,0,Disease progression (PD),,2025-08-01
+TEST-001-001,TEST-001-001-CN005051,TRT,1,OS,Overall Survival,2025-05-06,2025-11-13,192.0,1,,No death recorded; censored at last contact,2025-11-13
+TEST-001-001,TEST-001-001-CN005051,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-06,2025-10-24,172.0,1,,No PD observed; censored at last RS assessment,2025-11-13
+TEST-001-001,TEST-001-001-CN005052,TRT,1,OS,Overall Survival,2025-01-20,2025-07-07,169.0,1,,No death recorded; censored at last contact,2025-07-07
+TEST-001-001,TEST-001-001-CN005052,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-20,2025-05-28,129.0,0,Disease progression (PD),,2025-07-07
+TEST-001-001,TEST-001-001-CN005071,PBO,0,OS,Overall Survival,2025-01-23,2025-07-10,169.0,1,,No death recorded; censored at last contact,2025-07-10
+TEST-001-001,TEST-001-001-CN005071,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-23,2025-05-28,126.0,1,,No PD observed; censored at last RS assessment,2025-07-10
+TEST-001-001,TEST-001-001-CN005078,TRT,1,OS,Overall Survival,2025-03-16,2025-09-02,171.0,1,,No death recorded; censored at last contact,2025-09-02
+TEST-001-001,TEST-001-001-CN005078,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-16,2025-09-02,171.0,1,,No PD observed; censored at last RS assessment,2025-09-02
+TEST-001-001,TEST-001-001-CN005079,TRT,1,OS,Overall Survival,2025-03-10,2025-08-25,169.0,1,,No death recorded; censored at last contact,2025-08-25
+TEST-001-001,TEST-001-001-CN005079,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-10,2025-08-22,166.0,1,,No PD observed; censored at last RS assessment,2025-08-25
+TEST-001-001,TEST-001-001-CN005091,PBO,0,OS,Overall Survival,2025-05-12,2025-10-27,169.0,1,,No death recorded; censored at last contact,2025-10-27
+TEST-001-001,TEST-001-001-CN005091,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-12,2025-10-25,167.0,1,,No PD observed; censored at last RS assessment,2025-10-27
+TEST-001-001,TEST-001-001-CN005107,PBO,0,OS,Overall Survival,2025-04-30,2025-10-15,169.0,1,,No death recorded; censored at last contact,2025-10-15
+TEST-001-001,TEST-001-001-CN005107,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-30,2025-10-15,169.0,1,,No PD observed; censored at last RS assessment,2025-10-15
+TEST-001-001,TEST-001-001-CN005112,TRT,1,OS,Overall Survival,2025-02-26,2025-08-13,169.0,1,,No death recorded; censored at last contact,2025-08-13
+TEST-001-001,TEST-001-001-CN005112,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-26,2025-08-11,167.0,1,,No PD observed; censored at last RS assessment,2025-08-13
+TEST-001-001,TEST-001-001-CN005124,PBO,0,OS,Overall Survival,2025-01-16,2025-07-03,169.0,1,,No death recorded; censored at last contact,2025-07-03
+TEST-001-001,TEST-001-001-CN005124,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-16,2025-03-02,46.0,0,Disease progression (PD),,2025-07-03
+TEST-001-001,TEST-001-001-CN005126,PBO,0,OS,Overall Survival,2025-02-21,2025-08-08,169.0,1,,No death recorded; censored at last contact,2025-08-08
+TEST-001-001,TEST-001-001-CN005126,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-21,2025-08-05,166.0,1,,No PD observed; censored at last RS assessment,2025-08-08
+TEST-001-001,TEST-001-001-CN005136,PBO,0,OS,Overall Survival,2025-02-19,2025-08-06,169.0,1,,No death recorded; censored at last contact,2025-08-06
+TEST-001-001,TEST-001-001-CN005136,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-19,2025-08-03,166.0,1,,No PD observed; censored at last RS assessment,2025-08-06
+TEST-001-001,TEST-001-001-CN005158,PBO,0,OS,Overall Survival,2025-01-18,2025-07-05,169.0,1,,No death recorded; censored at last contact,2025-07-05
+TEST-001-001,TEST-001-001-CN005158,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-18,2025-03-04,46.0,0,Disease progression (PD),,2025-07-05
+TEST-001-001,TEST-001-001-CN005159,PBO,0,OS,Overall Survival,2025-05-04,2025-10-19,169.0,1,,No death recorded; censored at last contact,2025-10-19
+TEST-001-001,TEST-001-001-CN005159,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-04,2025-10-17,167.0,1,,No PD observed; censored at last RS assessment,2025-10-19
+TEST-001-001,TEST-001-001-CN005175,TRT,1,OS,Overall Survival,2025-05-20,2025-11-07,172.0,1,,No death recorded; censored at last contact,2025-11-07
+TEST-001-001,TEST-001-001-CN005175,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-20,2025-11-07,172.0,1,,No PD observed; censored at last RS assessment,2025-11-07
+TEST-001-001,TEST-001-001-CN005181,PBO,0,OS,Overall Survival,2025-05-08,2025-10-23,169.0,1,,No death recorded; censored at last contact,2025-10-23
+TEST-001-001,TEST-001-001-CN005181,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-08,2025-07-29,83.0,0,Disease progression (PD),,2025-10-23
+TEST-001-001,TEST-001-001-CN005190,TRT,1,OS,Overall Survival,2025-04-02,2025-09-18,170.0,1,,No death recorded; censored at last contact,2025-09-18
+TEST-001-001,TEST-001-001-CN005190,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-02,2025-09-18,170.0,1,,No PD observed; censored at last RS assessment,2025-09-18
+TEST-001-001,TEST-001-001-CN005191,TRT,1,OS,Overall Survival,2025-04-07,2025-09-22,169.0,1,,No death recorded; censored at last contact,2025-09-22
+TEST-001-001,TEST-001-001-CN005191,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-07,2025-09-20,167.0,1,,No PD observed; censored at last RS assessment,2025-09-22
+TEST-001-001,TEST-001-001-CN006005,TRT,1,OS,Overall Survival,2025-03-30,2025-09-14,169.0,1,,No death recorded; censored at last contact,2025-09-14
+TEST-001-001,TEST-001-001-CN006005,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-30,2025-09-12,167.0,1,,No PD observed; censored at last RS assessment,2025-09-14
+TEST-001-001,TEST-001-001-CN006027,TRT,1,OS,Overall Survival,2025-01-14,2025-07-01,169.0,1,,No death recorded; censored at last contact,2025-07-01
+TEST-001-001,TEST-001-001-CN006027,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-14,2025-05-21,128.0,0,Disease progression (PD),,2025-07-01
+TEST-001-001,TEST-001-001-CN006043,PBO,0,OS,Overall Survival,2025-01-04,2025-06-21,169.0,1,,No death recorded; censored at last contact,2025-06-21
+TEST-001-001,TEST-001-001-CN006043,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-04,2025-01-01,-2.0,0,Disease progression (PD),,2025-06-21
+TEST-001-001,TEST-001-001-CN006045,PBO,0,OS,Overall Survival,2025-01-18,2025-08-09,204.0,1,,No death recorded; censored at last contact,2025-08-09
+TEST-001-001,TEST-001-001-CN006045,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-18,2025-07-03,167.0,0,Disease progression (PD),,2025-08-09
+TEST-001-001,TEST-001-001-CN006047,PBO,0,OS,Overall Survival,2025-04-16,2025-10-01,169.0,1,,No death recorded; censored at last contact,2025-10-01
+TEST-001-001,TEST-001-001-CN006047,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-16,2025-09-29,167.0,1,,No PD observed; censored at last RS assessment,2025-10-01
+TEST-001-001,TEST-001-001-CN006048,PBO,0,OS,Overall Survival,2025-01-18,2025-07-05,169.0,1,,No death recorded; censored at last contact,2025-07-05
+TEST-001-001,TEST-001-001-CN006048,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-18,2025-05-22,125.0,0,Disease progression (PD),,2025-07-05
+TEST-001-001,TEST-001-001-CN006053,PBO,0,OS,Overall Survival,2025-03-01,2025-08-18,171.0,1,,No death recorded; censored at last contact,2025-08-18
+TEST-001-001,TEST-001-001-CN006053,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-01,2025-08-18,171.0,1,,No PD observed; censored at last RS assessment,2025-08-18
+TEST-001-001,TEST-001-001-CN006055,PBO,0,OS,Overall Survival,2025-04-04,2025-09-20,170.0,1,,No death recorded; censored at last contact,2025-09-20
+TEST-001-001,TEST-001-001-CN006055,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-04,2025-06-29,87.0,0,Disease progression (PD),,2025-09-20
+TEST-001-001,TEST-001-001-CN006061,TRT,1,OS,Overall Survival,2025-01-29,2025-07-18,171.0,1,,No death recorded; censored at last contact,2025-07-18
+TEST-001-001,TEST-001-001-CN006061,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-29,2025-07-18,171.0,1,,No PD observed; censored at last RS assessment,2025-07-18
+TEST-001-001,TEST-001-001-CN006072,TRT,1,OS,Overall Survival,2025-01-16,2025-07-05,171.0,1,,No death recorded; censored at last contact,2025-07-05
+TEST-001-001,TEST-001-001-CN006072,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-16,2025-07-05,171.0,1,,No PD observed; censored at last RS assessment,2025-07-05
+TEST-001-001,TEST-001-001-CN006073,PBO,0,OS,Overall Survival,2025-02-14,2025-05-28,104.0,1,,No death recorded; censored at last contact,2025-05-28
+TEST-001-001,TEST-001-001-CN006073,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-14,2025-05-11,87.0,1,,No PD observed; censored at last RS assessment,2025-05-28
+TEST-001-001,TEST-001-001-CN006084,PBO,0,OS,Overall Survival,2025-01-22,2025-07-09,169.0,1,,No death recorded; censored at last contact,2025-07-09
+TEST-001-001,TEST-001-001-CN006084,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-22,2025-04-18,87.0,0,Disease progression (PD),,2025-07-09
+TEST-001-001,TEST-001-001-CN006088,PBO,0,OS,Overall Survival,2025-05-04,2025-10-19,169.0,1,,No death recorded; censored at last contact,2025-10-19
+TEST-001-001,TEST-001-001-CN006088,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-04,2025-09-05,125.0,0,Disease progression (PD),,2025-10-19
+TEST-001-001,TEST-001-001-CN006093,TRT,1,OS,Overall Survival,2025-02-17,2025-08-04,169.0,1,,No death recorded; censored at last contact,2025-08-04
+TEST-001-001,TEST-001-001-CN006093,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-17,2025-08-03,168.0,1,,No PD observed; censored at last RS assessment,2025-08-04
+TEST-001-001,TEST-001-001-CN006100,PBO,0,OS,Overall Survival,2025-06-02,2025-11-17,169.0,1,,No death recorded; censored at last contact,2025-11-17
+TEST-001-001,TEST-001-001-CN006100,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-06-02,2025-11-14,166.0,0,Disease progression (PD),,2025-11-17
+TEST-001-001,TEST-001-001-CN006117,PBO,0,OS,Overall Survival,2025-05-28,2025-11-14,171.0,1,,No death recorded; censored at last contact,2025-11-14
+TEST-001-001,TEST-001-001-CN006117,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-28,2025-11-14,171.0,1,,No PD observed; censored at last RS assessment,2025-11-14
+TEST-001-001,TEST-001-001-CN006128,TRT,1,OS,Overall Survival,2025-04-16,2025-06-13,59.0,1,,No death recorded; censored at last contact,2025-06-13
+TEST-001-001,TEST-001-001-CN006128,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-16,2025-05-25,40.0,1,,No PD observed; censored at last RS assessment,2025-06-13
+TEST-001-001,TEST-001-001-CN006134,TRT,1,OS,Overall Survival,2025-05-06,2025-10-21,169.0,1,,No death recorded; censored at last contact,2025-10-21
+TEST-001-001,TEST-001-001-CN006134,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-06,2025-06-15,41.0,0,Disease progression (PD),,2025-10-21
+TEST-001-001,TEST-001-001-CN006140,TRT,1,OS,Overall Survival,2025-01-10,2025-06-27,169.0,1,,No death recorded; censored at last contact,2025-06-27
+TEST-001-001,TEST-001-001-CN006140,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-10,2025-06-25,167.0,1,,No PD observed; censored at last RS assessment,2025-06-27
+TEST-001-001,TEST-001-001-CN006142,PBO,0,OS,Overall Survival,2025-05-09,2025-10-27,172.0,1,,No death recorded; censored at last contact,2025-10-27
+TEST-001-001,TEST-001-001-CN006142,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-09,2025-10-27,172.0,1,,No PD observed; censored at last RS assessment,2025-10-27
+TEST-001-001,TEST-001-001-CN006144,PBO,0,OS,Overall Survival,2025-01-30,2025-07-17,169.0,1,,No death recorded; censored at last contact,2025-07-17
+TEST-001-001,TEST-001-001-CN006144,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-30,2025-07-16,168.0,0,Disease progression (PD),,2025-07-17
+TEST-001-001,TEST-001-001-CN006166,PBO,0,OS,Overall Survival,2025-04-08,2025-09-25,171.0,1,,No death recorded; censored at last contact,2025-09-25
+TEST-001-001,TEST-001-001-CN006166,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-08,2025-08-10,125.0,0,Disease progression (PD),,2025-09-25
+TEST-001-001,TEST-001-001-CN006169,PBO,0,OS,Overall Survival,2025-02-17,2025-08-04,169.0,1,,No death recorded; censored at last contact,2025-08-04
+TEST-001-001,TEST-001-001-CN006169,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-17,2025-08-01,166.0,1,,No PD observed; censored at last RS assessment,2025-08-04
+TEST-001-001,TEST-001-001-CN006182,PBO,0,OS,Overall Survival,2025-01-08,2025-06-25,169.0,1,,No death recorded; censored at last contact,2025-06-25
+TEST-001-001,TEST-001-001-CN006182,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-08,2025-05-17,130.0,1,,No PD observed; censored at last RS assessment,2025-06-25
+TEST-001-001,TEST-001-001-CN006183,PBO,0,OS,Overall Survival,2025-03-26,2025-09-12,171.0,1,,No death recorded; censored at last contact,2025-09-12
+TEST-001-001,TEST-001-001-CN006183,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-26,2025-07-30,127.0,0,Disease progression (PD),,2025-09-12
+TEST-001-001,TEST-001-001-CN007030,PBO,0,OS,Overall Survival,2025-02-19,2025-08-09,172.0,1,,No death recorded; censored at last contact,2025-08-09
+TEST-001-001,TEST-001-001-CN007030,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-19,2025-05-14,85.0,0,Disease progression (PD),,2025-08-09
+TEST-001-001,TEST-001-001-CN007037,TRT,1,OS,Overall Survival,2025-04-21,2025-10-08,171.0,1,,No death recorded; censored at last contact,2025-10-08
+TEST-001-001,TEST-001-001-CN007037,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-21,2025-10-08,171.0,1,,No PD observed; censored at last RS assessment,2025-10-08
+TEST-001-001,TEST-001-001-CN007058,TRT,1,OS,Overall Survival,2025-04-25,2025-10-10,169.0,1,,No death recorded; censored at last contact,2025-10-10
+TEST-001-001,TEST-001-001-CN007058,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-25,2025-10-07,166.0,1,,No PD observed; censored at last RS assessment,2025-10-10
+TEST-001-001,TEST-001-001-CN007067,TRT,1,OS,Overall Survival,2025-01-24,2025-03-21,57.0,1,,No death recorded; censored at last contact,2025-03-21
+TEST-001-001,TEST-001-001-CN007067,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-24,2025-03-05,41.0,1,,No PD observed; censored at last RS assessment,2025-03-21
+TEST-001-001,TEST-001-001-CN007095,TRT,1,OS,Overall Survival,2025-01-03,2025-05-23,141.0,1,,No death recorded; censored at last contact,2025-05-23
+TEST-001-001,TEST-001-001-CN007095,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-03,2025-05-10,128.0,1,,No PD observed; censored at last RS assessment,2025-05-23
+TEST-001-001,TEST-001-001-CN007108,PBO,0,OS,Overall Survival,2025-06-07,2025-11-23,170.0,1,,No death recorded; censored at last contact,2025-11-23
+TEST-001-001,TEST-001-001-CN007108,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-06-07,2025-11-23,170.0,1,,No PD observed; censored at last RS assessment,2025-11-23
+TEST-001-001,TEST-001-001-CN007121,PBO,0,OS,Overall Survival,2025-04-22,2025-10-07,169.0,1,,No death recorded; censored at last contact,2025-10-07
+TEST-001-001,TEST-001-001-CN007121,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-22,2025-10-07,169.0,1,,No PD observed; censored at last RS assessment,2025-10-07
+TEST-001-001,TEST-001-001-CN007129,PBO,0,OS,Overall Survival,2025-03-27,2025-09-14,172.0,1,,No death recorded; censored at last contact,2025-09-14
+TEST-001-001,TEST-001-001-CN007129,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-27,2025-08-01,128.0,0,Disease progression (PD),,2025-09-14
+TEST-001-001,TEST-001-001-CN007153,PBO,0,OS,Overall Survival,2025-02-03,2025-07-24,172.0,1,,No death recorded; censored at last contact,2025-07-24
+TEST-001-001,TEST-001-001-CN007153,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-03,2025-07-24,172.0,1,,No PD observed; censored at last RS assessment,2025-07-24
+TEST-001-001,TEST-001-001-CN007165,TRT,1,OS,Overall Survival,2025-02-07,2025-07-26,170.0,1,,No death recorded; censored at last contact,2025-07-26
+TEST-001-001,TEST-001-001-CN007165,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-07,2025-07-26,170.0,1,,No PD observed; censored at last RS assessment,2025-07-26
+TEST-001-001,TEST-001-001-CN007194,PBO,0,OS,Overall Survival,2025-02-15,2025-08-02,169.0,1,,No death recorded; censored at last contact,2025-08-02
+TEST-001-001,TEST-001-001-CN007194,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-15,2025-05-07,82.0,0,Disease progression (PD),,2025-08-02
+TEST-001-001,TEST-001-001-CN008004,PBO,0,OS,Overall Survival,2025-06-09,2025-11-25,170.0,1,,No death recorded; censored at last contact,2025-11-25
+TEST-001-001,TEST-001-001-CN008004,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-06-09,2025-11-25,170.0,1,,No PD observed; censored at last RS assessment,2025-11-25
+TEST-001-001,TEST-001-001-CN008019,PBO,0,OS,Overall Survival,2025-05-02,2025-09-26,148.0,1,,No death recorded; censored at last contact,2025-09-26
+TEST-001-001,TEST-001-001-CN008019,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-02,2025-09-04,126.0,0,Disease progression (PD),,2025-09-26
+TEST-001-001,TEST-001-001-CN008041,TRT,1,OS,Overall Survival,2025-02-16,2025-08-04,170.0,1,,No death recorded; censored at last contact,2025-08-04
+TEST-001-001,TEST-001-001-CN008041,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-16,2025-06-22,127.0,0,Disease progression (PD),,2025-08-04
+TEST-001-001,TEST-001-001-CN008056,PBO,0,OS,Overall Survival,2025-02-25,2025-08-12,169.0,1,,No death recorded; censored at last contact,2025-08-12
+TEST-001-001,TEST-001-001-CN008056,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-25,2025-07-01,127.0,0,Disease progression (PD),,2025-08-12
+TEST-001-001,TEST-001-001-CN008077,TRT,1,OS,Overall Survival,2025-01-23,2025-07-13,172.0,1,,No death recorded; censored at last contact,2025-07-13
+TEST-001-001,TEST-001-001-CN008077,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-23,2025-07-13,172.0,0,Disease progression (PD),,2025-07-13
+TEST-001-001,TEST-001-001-CN008086,TRT,1,OS,Overall Survival,2025-03-04,2025-07-02,121.0,1,,No death recorded; censored at last contact,2025-07-02
+TEST-001-001,TEST-001-001-CN008086,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-04,2025-05-25,83.0,1,,No PD observed; censored at last RS assessment,2025-07-02
+TEST-001-001,TEST-001-001-CN008119,PBO,0,OS,Overall Survival,2025-02-11,2025-05-07,86.0,1,,No death recorded; censored at last contact,2025-05-07
+TEST-001-001,TEST-001-001-CN008119,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-11,2025-05-04,83.0,1,,No PD observed; censored at last RS assessment,2025-05-07
+TEST-001-001,TEST-001-001-CN008120,TRT,1,OS,Overall Survival,2025-02-13,2025-07-31,169.0,1,,No death recorded; censored at last contact,2025-07-31
+TEST-001-001,TEST-001-001-CN008120,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-13,2025-07-28,166.0,1,,No PD observed; censored at last RS assessment,2025-07-31
+TEST-001-001,TEST-001-001-CN008132,TRT,1,OS,Overall Survival,2025-03-16,2025-05-06,52.0,1,,No death recorded; censored at last contact,2025-05-06
+TEST-001-001,TEST-001-001-CN008132,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-16,2025-04-28,44.0,1,,No PD observed; censored at last RS assessment,2025-05-06
+TEST-001-001,TEST-001-001-CN008139,TRT,1,OS,Overall Survival,2025-02-13,2025-07-31,169.0,1,,No death recorded; censored at last contact,2025-07-31
+TEST-001-001,TEST-001-001-CN008139,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-13,2025-07-31,169.0,1,,No PD observed; censored at last RS assessment,2025-07-31
+TEST-001-001,TEST-001-001-CN008150,PBO,0,OS,Overall Survival,2025-02-02,2025-07-22,171.0,1,,No death recorded; censored at last contact,2025-07-22
+TEST-001-001,TEST-001-001-CN008150,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-02,2025-04-27,85.0,0,Disease progression (PD),,2025-07-22
+TEST-001-001,TEST-001-001-CN008155,TRT,1,OS,Overall Survival,2025-03-13,2025-08-28,169.0,1,,No death recorded; censored at last contact,2025-08-28
+TEST-001-001,TEST-001-001-CN008155,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-13,2025-08-25,166.0,1,,No PD observed; censored at last RS assessment,2025-08-28
+TEST-001-001,TEST-001-001-CN008167,TRT,1,OS,Overall Survival,2025-03-21,2025-09-05,169.0,1,,No death recorded; censored at last contact,2025-09-05
+TEST-001-001,TEST-001-001-CN008167,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-21,2025-09-05,169.0,1,,No PD observed; censored at last RS assessment,2025-09-05
+TEST-001-001,TEST-001-001-CN008176,TRT,1,OS,Overall Survival,2025-02-02,2025-07-20,169.0,1,,No death recorded; censored at last contact,2025-07-20
+TEST-001-001,TEST-001-001-CN008176,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-02,2025-07-17,166.0,1,,No PD observed; censored at last RS assessment,2025-07-20
+TEST-001-001,TEST-001-001-CN008180,PBO,0,OS,Overall Survival,2025-02-21,2025-08-09,170.0,1,,No death recorded; censored at last contact,2025-08-09
+TEST-001-001,TEST-001-001-CN008180,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-21,2025-08-09,170.0,0,Disease progression (PD),,2025-08-09
+TEST-001-001,TEST-001-001-CN008198,TRT,1,OS,Overall Survival,2025-02-28,2025-08-16,170.0,1,,No death recorded; censored at last contact,2025-08-16
+TEST-001-001,TEST-001-001-CN008198,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-28,2025-08-16,170.0,1,,No PD observed; censored at last RS assessment,2025-08-16
+TEST-001-001,TEST-001-001-CN009006,TRT,1,OS,Overall Survival,2025-01-12,2025-07-01,171.0,1,,No death recorded; censored at last contact,2025-07-01
+TEST-001-001,TEST-001-001-CN009006,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-12,2025-07-01,171.0,1,,No PD observed; censored at last RS assessment,2025-07-01
+TEST-001-001,TEST-001-001-CN009010,PBO,0,OS,Overall Survival,2025-03-25,2025-09-10,170.0,1,,No death recorded; censored at last contact,2025-09-10
+TEST-001-001,TEST-001-001-CN009010,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-25,2025-09-10,170.0,1,,No PD observed; censored at last RS assessment,2025-09-10
+TEST-001-001,TEST-001-001-CN009015,PBO,0,OS,Overall Survival,2025-04-26,2025-10-11,169.0,1,,No death recorded; censored at last contact,2025-10-11
+TEST-001-001,TEST-001-001-CN009015,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-26,2025-09-02,130.0,0,Disease progression (PD),,2025-10-11
+TEST-001-001,TEST-001-001-CN009016,PBO,0,OS,Overall Survival,2025-02-18,2025-08-08,172.0,1,,No death recorded; censored at last contact,2025-08-08
+TEST-001-001,TEST-001-001-CN009016,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-18,2025-02-21,4.0,0,Disease progression (PD),,2025-08-08
+TEST-001-001,TEST-001-001-CN009025,TRT,1,OS,Overall Survival,2025-02-25,2025-08-14,171.0,1,,No death recorded; censored at last contact,2025-08-14
+TEST-001-001,TEST-001-001-CN009025,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-25,2025-08-14,171.0,1,,No PD observed; censored at last RS assessment,2025-08-14
+TEST-001-001,TEST-001-001-CN009038,TRT,1,OS,Overall Survival,2025-04-28,2025-10-13,169.0,1,,No death recorded; censored at last contact,2025-10-13
+TEST-001-001,TEST-001-001-CN009038,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-28,2025-10-11,167.0,0,Disease progression (PD),,2025-10-13
+TEST-001-001,TEST-001-001-CN009059,TRT,1,OS,Overall Survival,2025-04-21,2025-10-09,172.0,1,,No death recorded; censored at last contact,2025-10-09
+TEST-001-001,TEST-001-001-CN009059,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-21,2025-10-09,172.0,1,,No PD observed; censored at last RS assessment,2025-10-09
+TEST-001-001,TEST-001-001-CN009060,PBO,0,OS,Overall Survival,2025-01-03,2025-06-20,169.0,1,,No death recorded; censored at last contact,2025-06-20
+TEST-001-001,TEST-001-001-CN009060,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-03,2025-06-19,168.0,1,,No PD observed; censored at last RS assessment,2025-06-20
+TEST-001-001,TEST-001-001-CN009063,TRT,1,OS,Overall Survival,2025-03-29,2025-05-21,54.0,1,,No death recorded; censored at last contact,2025-05-21
+TEST-001-001,TEST-001-001-CN009063,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-29,2025-05-11,44.0,1,,No PD observed; censored at last RS assessment,2025-05-21
+TEST-001-001,TEST-001-001-CN009064,PBO,0,OS,Overall Survival,2025-03-07,2025-08-23,170.0,1,,No death recorded; censored at last contact,2025-08-23
+TEST-001-001,TEST-001-001-CN009064,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-07,2025-08-23,170.0,1,,No PD observed; censored at last RS assessment,2025-08-23
+TEST-001-001,TEST-001-001-CN009065,PBO,0,OS,Overall Survival,2025-04-03,2025-09-18,169.0,1,,No death recorded; censored at last contact,2025-09-18
+TEST-001-001,TEST-001-001-CN009065,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-03,2025-06-29,88.0,0,Disease progression (PD),,2025-09-18
+TEST-001-001,TEST-001-001-CN009083,TRT,1,OS,Overall Survival,2025-04-29,2025-06-22,55.0,1,,No death recorded; censored at last contact,2025-06-22
+TEST-001-001,TEST-001-001-CN009083,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-29,2025-06-08,41.0,1,,No PD observed; censored at last RS assessment,2025-06-22
+TEST-001-001,TEST-001-001-CN009089,PBO,0,OS,Overall Survival,2025-01-31,2025-07-18,169.0,1,,No death recorded; censored at last contact,2025-07-18
+TEST-001-001,TEST-001-001-CN009089,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-31,2025-07-18,169.0,1,,No PD observed; censored at last RS assessment,2025-07-18
+TEST-001-001,TEST-001-001-CN009090,TRT,1,OS,Overall Survival,2025-04-19,2025-10-06,171.0,1,,No death recorded; censored at last contact,2025-10-06
+TEST-001-001,TEST-001-001-CN009090,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-19,2025-10-06,171.0,0,Disease progression (PD),,2025-10-06
+TEST-001-001,TEST-001-001-CN009099,PBO,0,OS,Overall Survival,2025-02-15,2025-08-05,172.0,1,,No death recorded; censored at last contact,2025-08-05
+TEST-001-001,TEST-001-001-CN009099,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-15,2025-06-23,129.0,0,Disease progression (PD),,2025-08-05
+TEST-001-001,TEST-001-001-CN009101,TRT,1,OS,Overall Survival,2025-04-13,2025-09-28,169.0,1,,No death recorded; censored at last contact,2025-09-28
+TEST-001-001,TEST-001-001-CN009101,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-13,2025-09-25,166.0,1,,No PD observed; censored at last RS assessment,2025-09-28
+TEST-001-001,TEST-001-001-CN009104,TRT,1,OS,Overall Survival,2025-01-29,2025-07-16,169.0,1,,No death recorded; censored at last contact,2025-07-16
+TEST-001-001,TEST-001-001-CN009104,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-29,2025-06-06,129.0,1,,No PD observed; censored at last RS assessment,2025-07-16
+TEST-001-001,TEST-001-001-CN009110,TRT,1,OS,Overall Survival,2025-04-12,2025-09-27,169.0,1,,No death recorded; censored at last contact,2025-09-27
+TEST-001-001,TEST-001-001-CN009110,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-12,2025-09-27,169.0,1,,No PD observed; censored at last RS assessment,2025-09-27
+TEST-001-001,TEST-001-001-CN009122,PBO,0,OS,Overall Survival,2025-02-17,2025-08-04,169.0,1,,No death recorded; censored at last contact,2025-08-04
+TEST-001-001,TEST-001-001-CN009122,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-17,2025-02-18,2.0,0,Disease progression (PD),,2025-08-04
+TEST-001-001,TEST-001-001-CN009125,PBO,0,OS,Overall Survival,2025-02-04,2025-07-24,171.0,1,,No death recorded; censored at last contact,2025-07-24
+TEST-001-001,TEST-001-001-CN009125,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-04,2025-04-30,86.0,0,Disease progression (PD),,2025-07-24
+TEST-001-001,TEST-001-001-CN009145,TRT,1,OS,Overall Survival,2025-03-29,2025-09-16,172.0,1,,No death recorded; censored at last contact,2025-09-16
+TEST-001-001,TEST-001-001-CN009145,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-29,2025-09-16,172.0,1,,No PD observed; censored at last RS assessment,2025-09-16
+TEST-001-001,TEST-001-001-CN009146,TRT,1,OS,Overall Survival,2025-05-27,2025-11-13,171.0,1,,No death recorded; censored at last contact,2025-11-13
+TEST-001-001,TEST-001-001-CN009146,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-05-27,2025-08-18,84.0,0,Disease progression (PD),,2025-11-13
+TEST-001-001,TEST-001-001-CN009148,TRT,1,OS,Overall Survival,2025-04-27,2025-10-12,169.0,1,,No death recorded; censored at last contact,2025-10-12
+TEST-001-001,TEST-001-001-CN009148,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-27,2025-10-10,167.0,1,,No PD observed; censored at last RS assessment,2025-10-12
+TEST-001-001,TEST-001-001-CN009160,TRT,1,OS,Overall Survival,2025-01-08,2025-06-27,171.0,1,,No death recorded; censored at last contact,2025-06-27
+TEST-001-001,TEST-001-001-CN009160,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-08,2025-05-11,124.0,0,Disease progression (PD),,2025-06-27
+TEST-001-001,TEST-001-001-CN009179,TRT,1,OS,Overall Survival,2025-06-04,2025-11-22,172.0,1,,No death recorded; censored at last contact,2025-11-22
+TEST-001-001,TEST-001-001-CN009179,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-06-04,2025-11-22,172.0,1,,No PD observed; censored at last RS assessment,2025-11-22
+TEST-001-001,TEST-001-001-CN009184,TRT,1,OS,Overall Survival,2025-01-31,2025-07-18,169.0,1,,No death recorded; censored at last contact,2025-07-18
+TEST-001-001,TEST-001-001-CN009184,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-31,2025-07-18,169.0,1,,No PD observed; censored at last RS assessment,2025-07-18
+TEST-001-001,TEST-001-001-CN009186,TRT,1,OS,Overall Survival,2025-06-09,2025-11-24,169.0,1,,No death recorded; censored at last contact,2025-11-24
+TEST-001-001,TEST-001-001-CN009186,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-06-09,2025-11-23,168.0,1,,No PD observed; censored at last RS assessment,2025-11-24
+TEST-001-001,TEST-001-001-CN010017,PBO,0,OS,Overall Survival,2025-03-21,2025-09-05,169.0,1,,No death recorded; censored at last contact,2025-09-05
+TEST-001-001,TEST-001-001-CN010017,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-21,2025-05-02,43.0,0,Disease progression (PD),,2025-09-05
+TEST-001-001,TEST-001-001-CN010020,TRT,1,OS,Overall Survival,2025-03-03,2025-08-18,169.0,1,,No death recorded; censored at last contact,2025-08-18
+TEST-001-001,TEST-001-001-CN010020,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-03,2025-08-17,168.0,1,,No PD observed; censored at last RS assessment,2025-08-18
+TEST-001-001,TEST-001-001-CN010021,PBO,0,OS,Overall Survival,2025-06-06,2025-08-26,82.0,1,,No death recorded; censored at last contact,2025-08-26
+TEST-001-001,TEST-001-001-CN010021,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-06-06,2025-07-16,41.0,1,,No PD observed; censored at last RS assessment,2025-08-26
+TEST-001-001,TEST-001-001-CN010022,PBO,0,OS,Overall Survival,2025-03-30,2025-09-10,165.0,1,,No death recorded; censored at last contact,2025-09-10
+TEST-001-001,TEST-001-001-CN010022,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-30,2025-05-09,41.0,0,Disease progression (PD),,2025-09-10
+TEST-001-001,TEST-001-001-CN010023,PBO,0,OS,Overall Survival,2025-01-23,2025-07-10,169.0,1,,No death recorded; censored at last contact,2025-07-10
+TEST-001-001,TEST-001-001-CN010023,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-23,2025-04-20,88.0,0,Disease progression (PD),,2025-07-10
+TEST-001-001,TEST-001-001-CN010029,TRT,1,OS,Overall Survival,2025-01-09,2025-07-14,187.0,1,,No death recorded; censored at last contact,2025-07-14
+TEST-001-001,TEST-001-001-CN010029,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-09,2025-06-23,166.0,1,,No PD observed; censored at last RS assessment,2025-07-14
+TEST-001-001,TEST-001-001-CN010066,PBO,0,OS,Overall Survival,2025-01-09,2025-06-27,170.0,1,,No death recorded; censored at last contact,2025-06-27
+TEST-001-001,TEST-001-001-CN010066,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-09,2025-06-27,170.0,1,,No PD observed; censored at last RS assessment,2025-06-27
+TEST-001-001,TEST-001-001-CN010085,TRT,1,OS,Overall Survival,2025-01-28,2025-07-15,169.0,1,,No death recorded; censored at last contact,2025-07-15
+TEST-001-001,TEST-001-001-CN010085,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-28,2025-07-15,169.0,1,,No PD observed; censored at last RS assessment,2025-07-15
+TEST-001-001,TEST-001-001-CN010102,PBO,0,OS,Overall Survival,2025-05-20,2025-11-06,171.0,1,,No death recorded; censored at last contact,2025-11-06
+TEST-001-001,TEST-001-001-CN010102,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-05-20,2025-11-06,171.0,1,,No PD observed; censored at last RS assessment,2025-11-06
+TEST-001-001,TEST-001-001-CN010106,PBO,0,OS,Overall Survival,2025-01-09,2025-06-26,169.0,1,,No death recorded; censored at last contact,2025-06-26
+TEST-001-001,TEST-001-001-CN010106,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-01-09,2025-06-23,166.0,1,,No PD observed; censored at last RS assessment,2025-06-26
+TEST-001-001,TEST-001-001-CN010111,PBO,0,OS,Overall Survival,2025-03-14,2025-09-17,188.0,1,,No death recorded; censored at last contact,2025-09-17
+TEST-001-001,TEST-001-001-CN010111,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-14,2025-08-26,166.0,1,,No PD observed; censored at last RS assessment,2025-09-17
+TEST-001-001,TEST-001-001-CN010113,TRT,1,OS,Overall Survival,2025-03-01,2025-08-16,169.0,1,,No death recorded; censored at last contact,2025-08-16
+TEST-001-001,TEST-001-001-CN010113,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-03-01,2025-08-14,167.0,1,,No PD observed; censored at last RS assessment,2025-08-16
+TEST-001-001,TEST-001-001-CN010116,TRT,1,OS,Overall Survival,2025-01-13,2025-06-30,169.0,1,,No death recorded; censored at last contact,2025-06-30
+TEST-001-001,TEST-001-001-CN010116,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-01-13,2025-06-28,167.0,1,,No PD observed; censored at last RS assessment,2025-06-30
+TEST-001-001,TEST-001-001-CN010130,PBO,0,OS,Overall Survival,2025-02-13,2025-07-31,169.0,1,,No death recorded; censored at last contact,2025-07-31
+TEST-001-001,TEST-001-001-CN010130,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-02-13,2025-03-25,41.0,0,Disease progression (PD),,2025-07-31
+TEST-001-001,TEST-001-001-CN010151,PBO,0,OS,Overall Survival,2025-04-19,2025-10-05,170.0,1,,No death recorded; censored at last contact,2025-10-05
+TEST-001-001,TEST-001-001-CN010151,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-04-19,2025-10-05,170.0,1,,No PD observed; censored at last RS assessment,2025-10-05
+TEST-001-001,TEST-001-001-CN010162,TRT,1,OS,Overall Survival,2025-02-16,2025-03-21,34.0,1,,No death recorded; censored at last contact,2025-03-21
+TEST-001-001,TEST-001-001-CN010162,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-02-16,2025-02-15,0.0,1,,No PD observed; censored at last RS assessment,2025-03-21
+TEST-001-001,TEST-001-001-CN010174,TRT,1,OS,Overall Survival,2025-04-19,2025-10-06,171.0,1,,No death recorded; censored at last contact,2025-10-06
+TEST-001-001,TEST-001-001-CN010174,TRT,1,PFS,Progression-Free Survival (PD from RS),2025-04-19,2025-10-06,171.0,0,Disease progression (PD),,2025-10-06
+TEST-001-001,TEST-001-001-CN010189,PBO,0,OS,Overall Survival,2025-03-04,2025-08-20,170.0,1,,No death recorded; censored at last contact,2025-08-20
+TEST-001-001,TEST-001-001-CN010189,PBO,0,PFS,Progression-Free Survival (PD from RS),2025-03-04,2025-08-20,170.0,0,Disease progression (PD),,2025-08-20
