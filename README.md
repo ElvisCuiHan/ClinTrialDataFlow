@@ -18,28 +18,6 @@ with realistic imperfections and interactive workflows.
 
 ---
 
-## Table of Contents
-
-- [Why ClinTrialDataFlow](#why-clintrialdataflow)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Quick Start](#-quick-start)
-  - [Option A: Interactive Web App (Streamlit)](#option-a-interactive-web-app-streamlit)
-  - [Option B: CLI Pipeline](#option-b-cli-pipeline)
-- [Configuration](#configuration)
-- [Outputs](#outputs)
-  - [RAW / EDC-like](#raw--edc-like)
-  - [SDTM](#sdtm)
-  - [ADaM](#adam)
-  - [TFL](#tfl)
-- [Design Notes](#design-notes)
-- [FAQ](#faq)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Why ClinTrialDataFlow
 
 ClinTrialDataFlow is a reproducible simulator designed to mimic real-world
@@ -131,6 +109,8 @@ python Codes/ADaMSimu.py --insdtm Data/sdtm_out --out Data/adam_out
 python Codes/TFLSimu.py  --inadam Data/adam_out --out Data/tfl_out
 ```
 
+---
+
 > Configuration
 
 Simulation behavior is controlled via `cfg.json`, including:
@@ -140,12 +120,16 @@ Simulation behavior is controlled via `cfg.json`, including:
 - Form-level and item-level missingness
 See `cfg.json` for details.
 
+---
+
 > Outputs
 
 - RAW / EDC-like: EDC-style source tables intended to resemble raw clinical data capture.
 - SDTM: CDISC SDTM domains suitable for downstream ADaM derivation.
 - ADaM: Analysis-ready datasets including subject-level response summaries and time-to-event endpoints.
 - TFL: Summary tables and figures commonly used in clinical study reports (e.g., baseline characteristics, ORR, PFS/OS).
+
+---
 
 > Design Notes
 
