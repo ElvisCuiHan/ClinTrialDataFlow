@@ -69,6 +69,7 @@ ClinTrialDataFlow/
    ├── sdtm_out/
    ├── adam_out/
    └── tfl_out/
+```
 
 ## 🚀 Quick Start
 
