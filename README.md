@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="ClinTrialDataFlow logo" width="520" />
+  <img src="logo.svg" alt="ClinTrialDataFlow logo" width="520" />
 </p>
 
 <div align="center">
