@@ -4,8 +4,7 @@
 
 <div align="center">
 
-<!-- Replace with your logo once you have it -->
-<!-- <img src="assets/logo.png" alt="ClinTrialDataFlow logo" width="140" /> -->
+# ClinTrialDataFlow（CTDF）
 
 **End-to-end clinical trial data simulation: EDC → SDTM → ADaM → TFL**  
 with realistic imperfections and interactive workflows.
