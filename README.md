@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="ClinTrialDataFlow logo" width="520" />
+</p>
+
 <div align="center">
 
 <!-- Replace with your logo once you have it -->
