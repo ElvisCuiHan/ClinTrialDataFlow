@@ -105,8 +105,48 @@ pip install streamlit
 
 # Optional: exact binomial CI for ORR (Clopper–Pearson)
 pip install scipy
+```
 
 ### Option A: Interactive Web App (Streamlit)
 
 ```bash
 streamlit run app.py
+```
+
+The web interface allows you to:
+
+- Edit and save `cfg.json`
+- Run the full pipeline: EDC → SDTM → ADaM → TFL
+- Preview key datasets
+- Download outputs for each stage
+
+### Option B: CLI Pipeline
+
+From the repository root:
+
+```bash
+python Codes/EDCSimu.py  --cfg cfg.json --out Data/raw_out
+python Codes/SDTMSimu.py --indir Data/raw_out --out Data/sdtm_out
+python Codes/ADaMSimu.py --insdtm Data/sdtm_out --out Data/adam_out
+python Codes/TFLSimu.py  --inadam Data/adam_out --out Data/tfl_out
+```
+
+> Configuration
+
+Simulation behavior is controlled via `cfg.json`, including:
+- Sample size
+- Random seed
+- Dropout mechanisms
+- Form-level and item-level missingness
+See `cfg.json` for details.
+
+> Outputs
+
+- RAW / EDC-like: EDC-style source tables intended to resemble raw clinical data capture.
+- SDTM: CDISC SDTM domains suitable for downstream ADaM derivation.
+- ADaM: Analysis-ready datasets including subject-level response summaries and time-to-event endpoints.
+- TFL: Summary tables and figures commonly used in clinical study reports (e.g., baseline characteristics, ORR, PFS/OS).
+
+> Design Notes
+
+This project emphasizes clarity, reproducibility, and realism rather than regulatory validation. It is intended as a safe sandbox for learning, method development, and pipeline prototyping.
